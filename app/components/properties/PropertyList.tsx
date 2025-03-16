@@ -5,9 +5,6 @@ const PropertyList = () => {
   return (
     <>
       <PropertyListItem />
-      <PropertyListItem />
-      <PropertyListItem />
-      <PropertyListItem />
     </>
   )
 }
